@@ -31,7 +31,7 @@ nav a:hover {
    article (é descendente do body, mas não é filho direto). */
 body > header,
 footer {
-  background-color: #f3e3c3;
+  background-color: #fff3b0;
 }
 
 /* classe: no index, <p class="intro"> (o primeiro p a seguir ao h1) */
