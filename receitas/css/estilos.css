@@ -183,7 +183,7 @@ td {
 /* 1 · o topo com a toalha a repetir (repeat é o valor por omissão);
    a cor do 12.2 continua por baixo, para o caso de a imagem falhar */
 body > header {
-  background-color: #f3e3c3;
+  background-color: #db13b6;
   background-image: url("../img/toalha.svg");   /* o url() conta a partir de css/ */
 }
 
