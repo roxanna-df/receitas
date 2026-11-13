@@ -1,2 +1,2 @@
-Este livro é um diario de bordo do git
+Este livro é um diario de bordo do git... mais um
 App de tickets
