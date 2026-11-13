@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Livro de instruções do git
+=======
+Este livro é um diario de bordo do git... mais um
+>>>>>>> prefacio-novo
 App de tickets
